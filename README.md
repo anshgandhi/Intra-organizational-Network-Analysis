@@ -18,5 +18,3 @@ SOme of the question that were answered were:
 <li>Probability of Link Formation
 <li>The node which is trusted the most by the Upper Management in the organization.
 </ul>
-
-The analysis and the RMarkdown file can be found on the Github Repository.
