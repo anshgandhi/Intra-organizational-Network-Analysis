@@ -17,5 +17,6 @@ SOme of the question that were answered were:
 <li>Most influential person in the organizational
 <li>Probability of Link Formation
 <li>The node which is trusted the most by the Upper Management in the organization.
-<ul>
+</ul>
+
 The analysis and the RMarkdown file can be found on the Github Repository.
